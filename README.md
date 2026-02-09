@@ -4,7 +4,7 @@
 <tr>
 <td width="200">
 <div align="center">
-<img width="180" height="180" alt="Timestamp Icon" src="https://raw.githubusercontent.com/freeCodeCamp/freeCodeCamp/main/docs/images/icons/clock.svg" />
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/844c3bdb-74ed-47c9-9f64-11c7f8ce51f0" />
 </div>
 </td>
 <td>
